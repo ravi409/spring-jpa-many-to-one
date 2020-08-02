@@ -1,0 +1,8 @@
+com\myworks\jpa\controller\JpaTestController.class
+com\myworks\jpa\SwaggerConfiguration.class
+com\myworks\jpa\repository\RunResultsRepository.class
+com\myworks\jpa\model\InputVP.class
+com\myworks\jpa\dto\RunResultsDTO.class
+com\myworks\jpa\JpaTestApplication.class
+com\myworks\jpa\service\RunResultsService.class
+com\myworks\jpa\model\RunResults.class
